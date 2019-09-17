@@ -21,5 +21,9 @@ public class JavaApplication55 {
      public static void test() {
         // TODO code application logic here
     }
+     
+      public static void test1() {
+        // TODO code application logic here
+    }
     
 }
