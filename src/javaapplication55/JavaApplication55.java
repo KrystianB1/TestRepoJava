@@ -11,6 +11,8 @@ package javaapplication55;
  */
 public class JavaApplication55 {
 
+    private static int x = 1;
+	private String a = "zmienna";
     /**
      * @param args the command line arguments
      */
