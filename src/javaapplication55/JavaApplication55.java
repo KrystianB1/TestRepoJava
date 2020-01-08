@@ -16,10 +16,7 @@ public class JavaApplication55 {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
-	
+    
 	 public static void test_number_two() {
         // TODO code application logic here
     }
@@ -29,6 +26,10 @@ public class JavaApplication55 {
     }
      
       public static void test1() {
+        // TODO code application logic here
+    }
+	
+	public static void main(String[] args) {
         // TODO code application logic here
     }
       
